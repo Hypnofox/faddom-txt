@@ -3,201 +3,225 @@
 
 ---
 
-<h1 id="faddom-demo-flow-—-executive-ready-2025-aligned"><strong>Faddom Demo Flow — Executive-Ready (2025-Aligned)</strong></h1>
-<h2 id="opening-30–60-seconds"><strong>Opening (30–60 seconds)</strong></h2>
-<p>“Before we dive in, the key idea is simple:<br>
-Faddom gives you <strong>complete, real-time, agentless visibility</strong> across hybrid IT. Everything you’ll see today is collected passively, stored locally, and mapped automatically — no agents, no credentials, no intrusive deployments.”</p>
+<h1 id="faddom.-executive-demo-script-final-corrected-2025"><strong>FADDOM. EXECUTIVE DEMO SCRIPT (FINAL, CORRECTED, 2025)</strong></h1>
 <hr>
-<h1 id="dashboard-—-instant-discovery--visibility"><strong>1. Dashboard — Instant Discovery &amp; Visibility</strong></h1>
-<h3 id="opening-statement"><strong>Opening Statement</strong></h3>
-<p>“This is the front door of Faddom. Every widget is customizable and can be adapted for operations, network, security, cloud, or management teams. It will make more sense once we walk through the flows — but the key point is: all your critical information can be centralized here.”</p>
-<p>Show:</p>
+<h1 id="intro---why-faddom-matters-in-2025"><strong>INTRO - Why Faddom Matters in 2025</strong></h1>
+<p>“Before we jump into the product, here’s 60 seconds of context.”</p>
+<p>Faddom is a hybrid-IT observability and dependency-mapping platform recognized by Gartner in 2025 as a <strong>stand-alone, agentless tool</strong> built for migrations, risk reduction, cloud acceleration, and operational clarity.</p>
+<p>The core value is simple:</p>
+<p><strong>fast deployment, instant visibility, and always-accurate topology.</strong></p>
+<p>Faddom deploys in under an hour, runs <strong>agentless and can operate fully offline</strong>, keeps <strong>all data on-prem</strong>, and integrates with every major platform - <strong>VMware, Hyper-V, AWS, Azure, GCP, and Nutanix</strong>.</p>
+<p>And it is aligned with ISO-27001 and approved for sensitive, regulated environments.</p>
+<p><strong>“Faddom delivers real-time visibility without agents or instrumentation. Credentials are only required for optional enrichments such as CVEs, user discovery, and hypervisor integration.”</strong></p>
+<hr>
+<h1 id="section-1.-dashboard-the-single-pane-of-truth"><strong>SECTION 1. DASHBOARD (THE SINGLE PANE OF TRUTH)</strong></h1>
+<p>“This is where everything comes together.”</p>
+<h3 id="highly-customizable"><strong>Highly Customizable</strong></h3>
+<p>Every widget can be added, removed, resized, or rearranged so Operations, Security, Architecture, or Leadership can each see what matters most.</p>
+<h3 id="platform-guidance"><strong>Platform Guidance</strong></h3>
+<p>Faddom includes built-in guidance with:</p>
 <ul>
-<li>Switching between dashboards</li>
-<li>Creating a new one</li>
+<li><strong>contextual explanations about each screen</strong></li>
+<li><strong>short descriptions of what the user is viewing</strong></li>
 </ul>
-<p><strong>Value:</strong><br>
-“Executives want one place to understand the state of their world. This replaces tool-hopping, spreadsheets, and tribal knowledge.”</p>
+<p>This makes the product immediately usable for first-time engineers and executives.</p>
+<p>“This is real-time, not a manually drawn diagram.”</p>
 <hr>
-<h1 id="search-—-the-fastest-way-to-find-anything"><strong>2. Search — The Fastest Way to Find Anything</strong></h1>
-<h3 id="opening-statement-1"><strong>Opening Statement</strong></h3>
-<p>“This is one of our most powerful tools. Think of it as Google for your environment. Type anything — a VLAN, server, hostname, subnet, port — and Faddom instantly maps it.”</p>
-<p><strong>Example:</strong> Search for <strong>VLAN 3</strong>.</p>
-<p>Explain:</p>
+<h1 id="section-2.-change-management-live-topology--rca"><strong>SECTION 2. CHANGE MANAGEMENT (LIVE TOPOLOGY &amp; RCA)</strong></h1>
+<p>“This is the heart of the platform - continuous, real-time change detection.”</p>
+<h3 id="search-→-instant-map"><strong>Search → Instant Map</strong></h3>
+<p>Search for “VLAN 3”:</p>
 <ul>
-<li>Map layout</li>
-<li>Directional connections</li>
-<li>Colors (green active, red failed, gray inactive)</li>
-<li>Export (CSV, PNG, Visio)</li>
-<li>List view option</li>
+<li>directional connections</li>
+<li>color-coded traffic (green, red, gray)</li>
+<li>list view and export (CSV, Visio, PNG, REST API)</li>
 </ul>
-<p><strong>Value Statement:</strong><br>
-“Once we know the direction of a connection, we know the dependency. That’s the foundation of everything Faddom does — and it’s agentless.”</p>
-<hr>
-<h1 id="application-maps-—-the-core-of-faddom"><strong>3. Application Maps — The Core of Faddom</strong></h1>
-<h3 id="opening-statement-2"><strong>Opening Statement</strong></h3>
-<p>“This is the heart of Faddom: real-time application dependency mapping across any hybrid environment.”</p>
-<p>Walkthrough:</p>
-<ol>
-<li>
-<p>Create a new map using <strong>traffic flow</strong> (e.g., 10.16.3.10).</p>
-</li>
-<li>
-<p>Show <strong>auto-tiering</strong>: client → app → backend.</p>
-</li>
-<li>
-<p>Point out <strong>purple</strong>: new connections discovered.</p>
-</li>
-<li>
-<p>Show <strong>filtering</strong>:</p>
+<h3 id="the-value"><strong>The Value</strong></h3>
+<p>Once we know <strong>direction</strong>, we know <strong>dependency</strong>, the core of accurate mapping.</p>
+<h3 id="baselines--comparisons"><strong>Baselines &amp; Comparisons</strong></h3>
+<p>Record a baseline → compare to current:</p>
 <ul>
-<li>Monitoring agents</li>
-<li>Email servers</li>
-<li>Irrelevant noise</li>
-<li>AI suggestions that help reduce clutter</li>
+<li>what changed</li>
+<li>what was added</li>
+<li>what was removed</li>
+<li>when it happened</li>
 </ul>
-</li>
-<li>
-<p>Save the map quickly.<br>
-“It’s that quick and easy to create an application map.”</p>
-</li>
-<li>
-<p>Show <strong>baseline</strong>, <strong>current</strong>, and <strong>compare</strong>:</p>
+<h3 id="impact-set"><strong>Impact Set</strong></h3>
+<p>Select a server → “Add to Impact Set”<br>
+See exactly which applications would break if it disappeared.</p>
+<p>“No more scream test, you know before you act.”</p>
+<h3 id="investigate--rca"><strong>Investigate / RCA</strong></h3>
+<p>Open any connection → charts, trends, spikes, timestamps.</p>
+<p><strong>“Most incidents are solved the moment you know where the change occurred.”</strong></p>
+<hr>
+<h1 id="section-3.-discovery-automatic-adm--asset-intelligence"><strong>SECTION 3. DISCOVERY (AUTOMATIC ADM + ASSET INTELLIGENCE)</strong></h1>
+<h3 id="hybrid-application-mapping"><strong>Hybrid Application Mapping</strong></h3>
+<p>Create an app map from real traffic (e.g., 10.16.3.10):</p>
 <ul>
-<li>Add a baseline</li>
-<li>Simulate a change</li>
-<li>Show delta between versions</li>
-<li>Mention that baselines support audits and change-management processes</li>
+<li>auto-tiered layout</li>
+<li>purple = new dependencies</li>
+<li>filtering (remove noise from monitoring/email agents)</li>
+<li>save map in seconds</li>
+<li>export to CMDB, REST, Visio, CSV</li>
 </ul>
-</li>
-</ol>
-<p><strong>Story:</strong><br>
-“If an engineer goes on vacation, they no longer need emergency calls. They come back, open Compare, and instantly see everything that changed.”</p>
-<p><strong>Value:</strong><br>
-“All root-cause information lives here — connections, failures, timings, and dependencies. This dramatically cuts incident-response time.”</p>
-<hr>
-<h1 id="investigate-—-rca-in-seconds"><strong>4. Investigate — RCA in Seconds</strong></h1>
-<p>Open a server → Investigate panel.</p>
-<p>Show:</p>
+<p>“This makes the organization, not an individual — the owner of the application topology.”</p>
+<h3 id="inventory-lightweight-cmdb"><strong>Inventory (Lightweight CMDB)</strong></h3>
+<p>Faddom automatically collects:</p>
 <ul>
-<li>Traffic charts</li>
-<li>Spikes</li>
-<li>Percent increases</li>
-<li>Added/removed connections</li>
-<li>Number of users (even if zero, mention why it matters)</li>
-<li>Error timing</li>
-</ul>
-<p><strong>Power Line:</strong><br>
-“Ninety percent of solving an issue is understanding it. Faddom gives you the answer immediately.”</p>
-<hr>
-<h1 id="impact-set-—-eliminating-the-scream-test"><strong>5. Impact Set — Eliminating the Scream Test</strong></h1>
-<p>Pick a server → Add to Impact Set.</p>
-<p>Explain:<br>
-“Before taking anything offline, Faddom instantly shows who will be affected — users, servers, applications. This prevents the classic ‘We shut it down and someone screamed’ situation.”</p>
-<hr>
-<h1 id="compass-ai-—-re-capturing-attention-mid-demo"><strong>6. Compass AI — Re-Capturing Attention Mid-Demo</strong></h1>
-<h3 id="opening-statement-3"><strong>Opening Statement</strong></h3>
-<p>“This is the ChatGPT of your environment — but fully local, fully offline, fully secure.”</p>
-<p>Ask:<br>
-“When is the best time to take down Tomcat1 for maintenance?”</p>
-<p>While it loads (20–40 seconds):</p>
-<p>Discuss:</p>
-<ul>
-<li>All processing is local</li>
-<li>No data leaves the customer environment</li>
-<li>No cloud dependency</li>
-<li>Designed for new teams or non-experts to get insights fast</li>
-</ul>
-<p><strong>Value:</strong><br>
-“Anyone can ask natural questions and get precise operational answers. Even teams unfamiliar with the UI can get actionable information and export it as documentation.”</p>
-<hr>
-<h1 id="subnet-dependencies-—-complete-birds-eye-view"><strong>7. Subnet Dependencies — Complete Birds-Eye View</strong></h1>
-<h3 id="opening-statement-4"><strong>Opening Statement</strong></h3>
-<p>“This is the most powerful birds-eye view of your entire network.”</p>
-<p>Show:</p>
-<ul>
-<li>Automatically detected subnets</li>
-<li>Grouping by business, geography, or data center</li>
-<li>Traffic flow visibility (zero blind spots)</li>
-<li>Policy violations highlighted</li>
-</ul>
-<p><strong>Story:</strong><br>
-“A customer immediately saw that their Test environment was talking to Production. One click, and we saw exactly which servers were responsible.”</p>
-<p><strong>Value:</strong><br>
-“This is the easiest and safest way to plan segmentation, validate firewall rules, and detect unwanted traffic.”</p>
-<hr>
-<h1 id="shadow-it--risk-scoring-—-attack-surface-reduction"><strong>8. Shadow IT &amp; Risk Scoring — Attack Surface Reduction</strong></h1>
-<p>Show the Shadow IT view.</p>
-<p>Explain:</p>
-<ul>
-<li>Dormant servers</li>
-<li>No-traffic systems</li>
-<li>Unknown tools</li>
-<li>Unauthorized software</li>
-<li>CVEs</li>
+<li>servers</li>
+<li>OS versions.</li>
+<li>installed software</li>
+<li>recent user activity*</li>
 <li>SSL certificates</li>
-<li>Risk scores combining security status + business context</li>
+<li>IP groups &amp; custom tags</li>
 </ul>
-<p><strong>Value:</strong><br>
-“You can reduce blind spots, find forgotten servers, and close attack paths — without scanning, credentials, or agents.”</p>
+<p>(<em>requires optional credential enrichment</em>)</p>
+<p>Use case:<br>
+A customer discovered a rogue <strong>Bitcoin miner</strong> installed on an unmonitored system.</p>
+<h3 id="user-discovery-optional-credential-integration"><strong>User Discovery (optional credential integration)</strong></h3>
+<p>Track who logged into which servers and when.</p>
+<p>Use case:<br>
+A company discovered a <strong>dormant account</strong> was still active and was later used maliciously.</p>
 <hr>
-<h1 id="optimization-—-cost--resource-efficiency"><strong>9. Optimization — Cost &amp; Resource Efficiency</strong></h1>
-<h3 id="opening-statement-5"><strong>Opening Statement</strong></h3>
-<p>“Every MB of RAM and every CPU cycle costs something — in the cloud or on-prem.”</p>
-<p>Show:</p>
+<h1 id="section-4.-cybersecurity-risk-shadow-it-anomalies"><strong>SECTION 4. CYBERSECURITY (RISK, SHADOW IT, ANOMALIES)</strong></h1>
+<p>“This is where visibility turns into security.”</p>
+<h3 id="shadow-it"><strong>Shadow IT</strong></h3>
+<p>Find outdated, unused, unpatched, or orphaned systems.</p>
+<p>“It’s like discovering a hidden door in your house, and now you get to lock it.”</p>
+<h3 id="risk-scoring"><strong>Risk Scoring</strong></h3>
+<p>Faddom prioritizes risks by combining:</p>
 <ul>
-<li>Over-provisioned machines</li>
-<li>Under-provisioned machines</li>
-<li>Right-sizing recommendations</li>
-<li>Cloud pricing considerations</li>
+<li>CVEs*</li>
+<li>OS EOL status</li>
+<li>business context</li>
+<li>external exposure</li>
+<li>traffic patterns</li>
 </ul>
-<p><strong>Value:</strong><br>
-“You cut costs, reduce waste, and increase performance — based on real behavior, not guesses.”</p>
+<p>(<em>requires credentials for CVE enrichment</em>)</p>
+<h3 id="ssl-certificates"><strong>SSL Certificates</strong></h3>
+<p>See certificate health and expiration across the estate.</p>
+<h3 id="segmentation--zero-trust-planning"><strong>Segmentation / Zero Trust Planning</strong></h3>
+<p>North–south + east–west traffic mapped automatically.</p>
+<p>Use case:<br>
+Customer immediately noticed <strong>test</strong> talking to <strong>production</strong> by mistake.</p>
+<h3 id="lighthouse-ai.-traffic-anomaly-detection"><strong>Lighthouse AI. Traffic Anomaly Detection</strong></h3>
+<p>(Alpha / Early Access)</p>
+<p>Detects:</p>
+<ul>
+<li>DoS</li>
+<li>MITM</li>
+<li>DNS spoofing</li>
+<li>port scans</li>
+<li>data exfiltration</li>
+<li>outages</li>
+<li>packet loss</li>
+<li>latency spikes</li>
+</ul>
+<p>Requires:</p>
+<ul>
+<li>2 weeks of data</li>
+<li>Internet connection</li>
+</ul>
+<p>All data sent is anonymized and encrypted.</p>
+<p>“This is your early-warning radar.”</p>
 <hr>
-<h1 id="migration--disaster-recovery-—-no-server-left-behind"><strong>10. Migration &amp; Disaster Recovery — No Server Left Behind</strong></h1>
-<h3 id="opening-statement-6"><strong>Opening Statement</strong></h3>
-<p>“Migrations fail not because of big problems — but because one critical server was left behind.”</p>
-<p>Demo:</p>
+<h1 id="section-5.-migration--dr-planning"><strong>SECTION 5. MIGRATION &amp; DR PLANNING</strong></h1>
+<p>“This is where Faddom pays for itself.”</p>
+<h3 id="migration-waves"><strong>Migration Waves</strong></h3>
 <ul>
-<li>Create migration wave (e.g., AWS, Europe)</li>
-<li>Select app map + individual servers</li>
-<li>Show cost analysis (compute + storage + network)</li>
-<li>Show dependency validation</li>
-<li>Show infrastructure dependencies (NTP, DNS, LDAP)</li>
-<li>Include everything into the wave</li>
+<li>Give the wave a name</li>
+<li>Choose target cloud (AWS / Azure / GCP)</li>
+<li>Add apps, servers, subnets</li>
+<li>See all dependencies</li>
+<li>Catch anything that would break</li>
+<li>Generate required infra (DNS, NTP, ports, LB rules)</li>
 </ul>
+<h3 id="cost-analysis"><strong>Cost Analysis</strong></h3>
+<p>Faddom calculates expected cloud cost:</p>
+<ul>
+<li>compute</li>
+<li>storage</li>
+<li>bandwidth/egress</li>
+</ul>
+<p>All adjustable by the organization.</p>
 <p><strong>Value:</strong><br>
-“One server left behind is enough to break the business. Faddom ensures you move everything you depend on.”</p>
+“One forgotten server is enough to break an entire migration.”</p>
+<h3 id="dr--business-continuity"><strong>DR / Business Continuity</strong></h3>
+<p>Same engine, but different question:<br>
+What must be restored together?</p>
 <hr>
-<h1 id="inventory-—-lightweight-cmdb"><strong>11. Inventory — Lightweight CMDB</strong></h1>
-<p>Show:</p>
+<h1 id="section-6.-optimization-performance--cost"><strong>SECTION 6. OPTIMIZATION (PERFORMANCE &amp; COST)</strong></h1>
+<p>“Every megabyte of RAM has a cost.”</p>
+<p>Faddom analyzes:</p>
 <ul>
-<li>Data sources</li>
-<li>OS versions</li>
-<li>Installed software</li>
-<li>Recent users</li>
-<li>Inactive users</li>
-<li>Security policies</li>
+<li>CPU</li>
+<li>RAM</li>
+<li>network behavior</li>
+<li>historical peaks</li>
 </ul>
-<p><strong>Stories:</strong></p>
+<h3 id="rightsizing"><strong>Rightsizing</strong></h3>
+<p>Recommend:</p>
 <ul>
-<li>Unauthorized bitcoin miner discovered</li>
-<li>Customer surprised to find two Linux distros they didn’t know they had</li>
-<li>A company was hacked through a user who left months earlier</li>
+<li>downsizing idle servers</li>
+<li>upsizing stressed servers</li>
+<li>optimizing both on-prem and cloud</li>
 </ul>
-<p><strong>Value:</strong><br>
-“Faddom shows exactly which users will be affected if a server goes offline. Be proactive, not reactive.”</p>
+<p>For VMware memory recommendations, Faddom uses allocated memory (since consumed is not exposed).</p>
 <hr>
-<h1 id="wrap-up-—-bring-it-back-to-the-dashboard"><strong>12. Wrap-Up — Bring It Back to the Dashboard</strong></h1>
-<p>Return to dashboard.</p>
-<p>Summarize:<br>
-“We started with discovery, moved into intelligence, and finished with planning. Now each widget makes sense — it reflects everything happening in your environment in real time.”</p>
-<p>Mention:</p>
+<h1 id="section-7.-the-ai-layer-compass-lighthouse-captain"><strong>SECTION 7. THE AI LAYER (COMPASS, LIGHTHOUSE, CAPTAIN)</strong></h1>
+<p>“This is where we go from visibility to intelligence.”</p>
+<h3 id="compass-ai---chatgpt-for-your-environment"><strong>Compass AI - ChatGPT for Your Environment</strong></h3>
+<p>If the search bar is Google, Compass AI is the ChatGPT interface over your entire topology.</p>
+<p>Ask things like:</p>
 <ul>
-<li>Captain AI support</li>
-<li>Offline mode</li>
-<li>Integration with syslog, webhooks, REST APIs</li>
-<li>Agentless approach</li>
-<li>ISO-27001 alignment</li>
+<li>“When is the best time to take down Tomcat1?”</li>
+<li>“Which users will be impacted if Server X goes offline?”</li>
+<li>“Show all outbound connections from Application Y.”</li>
 </ul>
+<p>Requires Internet + licensed seat.<br>
+Processing happens securely in Faddom’s cloud; results stay local.</p>
+<h3 id="lighthouse-ai---anomaly-detection"><strong>Lighthouse AI - Anomaly Detection</strong></h3>
+<p>(Already covered above)</p>
+<h3 id="captain-ai---support-automation"><strong>Captain AI - Support Automation</strong></h3>
+<p>Captain is the AI support assistant inside Faddom.</p>
+<p>The value:<br>
+<strong>Every conversation automatically opens a support ticket.</strong><br>
+The support team is looped in when needed, without the user doing anything.</p>
+<hr>
+<h1 id="section-8.-offline-mode-agentless-architecture--integrations"><strong>SECTION 8. OFFLINE MODE, AGENTLESS ARCHITECTURE &amp; INTEGRATIONS</strong></h1>
+<h3 id="agentless-architecture"><strong>Agentless Architecture</strong></h3>
+<ul>
+<li>No agents</li>
+<li>No instrumentation</li>
+<li>No performance overhead</li>
+<li>All core mapping is 100% passive</li>
+</ul>
+<p>(<strong>Credentials only needed for enrichments.</strong>)</p>
+<h3 id="offline-mode"><strong>Offline Mode</strong></h3>
+<p>Core mapping works with <strong>no Internet at all</strong>, which is perfect for air-gapped networks.</p>
+<p>(Compass &amp; Lighthouse require Internet.)</p>
+<h3 id="integrations"><strong>Integrations</strong></h3>
+<ul>
+<li>Syslog</li>
+<li>Webhooks</li>
+<li>REST APIs</li>
+<li>CMDB population</li>
+<li>SIEM &amp; SOAR enrichment</li>
+<li>External ticketing systems</li>
+</ul>
+<hr>
+<h1 id="conclusion.-why-executives-care"><strong>CONCLUSION. WHY EXECUTIVES CARE</strong></h1>
+<p>“In 60 minutes we went from zero visibility to full clarity.”</p>
+<p>Faddom helps organizations:</p>
+<ul>
+<li>eliminate blind spots</li>
+<li>reduce operational risk</li>
+<li>accelerate migrations</li>
+<li>detect threats early</li>
+<li>respond to incidents faster</li>
+<li>optimize cost and performance</li>
+<li>cut through complexity</li>
+<li>unify tribal knowledge</li>
+</ul>
+<p>“This is how you turn a complex, hybrid environment into something predictable and manageable.”</p>
 
