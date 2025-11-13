@@ -199,7 +199,7 @@ The support team is looped in when needed, without the user doing anything.</p>
 <p>(<strong>Credentials only needed for enrichments.</strong>)</p>
 <h3 id="offline-mode"><strong>Offline Mode</strong></h3>
 <p>Core mapping works with <strong>no Internet at all</strong>, which is perfect for air-gapped networks.</p>
-<p>(Compass &amp; Lighthouse require Internet.)</p>
+<p>(AI models require Internet.)</p>
 <h3 id="integrations"><strong>Integrations</strong></h3>
 <ul>
 <li>Syslog</li>
