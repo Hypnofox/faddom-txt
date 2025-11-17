@@ -12,7 +12,7 @@
 <p>When prompted for credentials, use:</p>
 <pre><code>Username: AD\&lt;yourname&gt;
 Password: Aa123456
-Domain: ad.local
+Domain: ad.local (if requested)
 </code></pre>
 <p>You should now be connected to the Windows Jumpbox machine.</p>
 <hr>
