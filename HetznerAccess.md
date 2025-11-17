@@ -32,6 +32,6 @@ Domain: ad.local
 <p>After verifying access, please contact <strong>Egor</strong> or <strong>Alex</strong> to have your password changed to your preferred one.<br>
 (Password changes can only be made by us due to current setup constraints.)</p>
 <hr>
-<p>Sorry for the inconvenience — and welcome to the lab.<br>
+<p>Apologies for the inconvenience, and welcome to the lab.<br>
 Enjoy exploring and experimenting in your new environment!</p>
 
